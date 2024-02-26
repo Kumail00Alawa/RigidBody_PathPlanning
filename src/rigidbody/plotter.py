@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
 import numpy as np
-import rigidbody.transformations as rb
+import transformations as rb
 from matplotlib.patches import Polygon
 
 

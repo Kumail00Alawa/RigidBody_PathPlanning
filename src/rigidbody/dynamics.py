@@ -1,4 +1,4 @@
-import rigidbody.kinematics as kine
+import kinematics as kine
 import numpy as np
 from dataclasses import dataclass
 

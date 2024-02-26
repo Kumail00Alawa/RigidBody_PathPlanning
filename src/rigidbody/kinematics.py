@@ -1,4 +1,4 @@
-import rigidbody.transformations as trans
+import transformations as trans
 import numpy as np
 from functools import partial
 
